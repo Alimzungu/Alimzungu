@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alimzungu
 - 👀 I’m interested in coding apps and blockchains
-- 🌱 I’m currently learning BS.c Computer Science
+- 🌱 I’m a graduate with BS.c Computer Science
 - 💞️ I’m looking to collaborate on blockchain development
 - 📫 How to reach me via email
 
